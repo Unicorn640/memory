@@ -1,6 +1,7 @@
-import React from "react"
+import React, { useState } from "react"
 import Data from "./Data"
 import Card from "./Card"
 function GameBoard() {
-    
+   const [cardsArray, setCardsArray] = useState([]) ;
+   // type next 5 lines//
 }
