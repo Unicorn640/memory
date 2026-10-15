@@ -1,7 +1,7 @@
 // App.js
 // Renders the GameBoardComponent
 import "./App.css";
-import GameBoard from "./Game/GameBoard";
+import GameBoard from "./game/GameBoard";
 function App() {
     return (
         <div className="App">

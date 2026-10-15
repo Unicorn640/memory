@@ -5,13 +5,16 @@ function Card({ item, handleSelectedCards, toggled, stopflip }) {
     return (
         <div className="item">
             <div className={toggled ? "toggled" : ""}>
-                <img className="face" src={item.img} alt="face" />
-                <div
+                <img className="face" src={item.img} alt={item.name} />
+                <button
+                    type="button"
+                    aria-label={`Reveal ${item.name} card`}
+                    disabled={stopflip || toggled}
                     className="back"
                     onClick={() => !stopflip && handleSelectedCards(item)}
                 >
-                    {" "}
-                </div>
+                    <span className="sr-only">Reveal card</span>
+                </button>
             </div>
         </div>
     );
