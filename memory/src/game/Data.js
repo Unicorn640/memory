@@ -1,7 +1,7 @@
 const cardTypes = [
     {
         name: "react",
-        img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927165802/atom-4.png",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRk9IgCRtQk65Jrzmf-T0T1u4I7hIF_bGUboRupWsPQ&s=10",
     },
     {
         name: "java",
