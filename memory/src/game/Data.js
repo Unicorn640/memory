@@ -1,27 +1,27 @@
 const cardTypes = [
     {
-        name: "react",
+        name: "p",
         img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLRk9IgCRtQk65Jrzmf-T0T1u4I7hIF_bGUboRupWsPQ&s=10",
     },
     {
-        name: "java",
-        img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927165803/java.png",
+        name: "f",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NLDbl2Ha09_XMGJLvKfkBkoZm5EVWhNnAPuVbb5OBA&s=10",
     },
     {
-        name: "css",
-        img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927165803/css-3-1.png",
+        name: "v",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf1U5zfLTWLuYKktCB9D3ecpnqKkiz-VvJC-dOIdB1eQ&s=10",
     },
     {
-        name: "node",
-        img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927165805/nodejs-1.png",
+        name: "r",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMJIO2qh-i9cMQrSGNwt24TorMTr_v5XoMWNWtHZUtWQ&s=10",
     },
     {
-        name: "html",
-        img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927165806/html-5-1.png",
+        name: "a",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuw25NbPJoA6vsdgozMvN7EJpg8J5M-RihohQRs99jXw&s=10",
     },
     {
-        name: "js",
-        img: "https://media.geeksforgeeks.org/wp-content/uploads/20230927165804/js-3.png",
+        name: "t",
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUfbZLk_J96gJT7knYt3G1kiMLSLHFApz7un9wvJN5w&s=10",
     },
 ];
 
